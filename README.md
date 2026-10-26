@@ -30,12 +30,12 @@ Repository ini berisi pemrosesan dan analisis data transaksi Point of Sale (POS)
 
 ---
 
-## 📁 Struktur File
+📁 Struktur File
 
-- `pos_analysis_Firdaus_10124497.ipynb` : Main Jupyter Notebook berisi kode pemrosesan data.
-- `paket_a_transaksi_pos_2024_2025.csv` : Raw dataset transaksi POS.
-- `dataset_cleaned.csv` : Dataset transaksi yang telah dibersihkan dan diproses.
-- `ringkasan_pendapatan_2024_2025.csv` : Hasil kalkulasi pendapatan per tahun.
+- pos_analysis_Firdaus_10124497.ipynb : Main Jupyter Notebook berisi kode pemrosesan data.
+- paket_a_transaksi_pos_2024_2025.csv : Raw dataset transaksi POS.
+- dataset_cleaned.xls : Dataset transaksi yang telah dibersihkan dan diproses.
+- ringkasan pendapatan 2024 2025.xls : Hasil kalkulasi pendapatan per tahun.
 
 ---
 
